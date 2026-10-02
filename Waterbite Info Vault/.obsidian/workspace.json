@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feeling Purple-1 525"
+            }
+          },
+          {
+            "id": "db9fe298df39a6c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/Theme Controller.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Theme Controller"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0b71f556349eff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed13d1e8038701e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4e22bd1f6333a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10e9b61fe007cb7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4765f18ddf3d0b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "9220943285249030",
+    "type": "split",
+    "children": [
+      {
+        "id": "718e3732bb31fa4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66696a287633c4b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2e6a467b4387ba23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1575fd14e7466bc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "427e6b7876a3fd34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e39b4102c17bca1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Image Storage/75 hitbox.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 75 hitbox"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "9d4e22bd1f6333a3",
+  "lastOpenFiles": [
+    "system/Theme Controller.md",
+    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+    "Home.md",
+    "cp1 - Start/Start Rooms/Start-4 75.md",
+    "cp1 - Start/Start Rooms/Start-5 100.md",
+    "cp1 - Start/Start Rooms/Start-6 125.md",
+    "cp1 - Start/Start Rooms/Start-7 150.md",
+    "cp1 - Start/Start Rooms/Start-8 175.md",
+    "basilowo9's progress/Progress Overview.md",
+    "Full Map Overview.md",
+    "cp2 - Feeling Purple/Feeling Purple Overview.md",
+    "cp1 - Start/Start Overview.md",
+    "cp1 - Start/Start Rooms/Start-21 500.md",
+    "cp3 - Scared of Red/Scared of Red Overview.md",
+    "cp5 - Too Deep to Think/Too Deep to Think Overview.md",
+    "cp4 - Crimson Nightmares/Crimson Nightmares Overview.md",
+    "cp1 - Start/Start Rooms/Start-3 50.md",
+    "cp1 - Start/Start Rooms/Start-2 25.md",
+    "cp1 - Start/Start Rooms/Start-1 Start.md",
+    "full map",
+    "basilowo9's progress/CP1 silver.md",
+    "basilowo9's progress/CP1 FC silver.md",
+    "basilowo9's progress",
+    "basilowo9's progress/cp5",
+    "basilowo9's progress/cp4",
+    "basilowo9's progress/cp3",
+    "basilowo9's progress/cp2",
+    "basilowo9's progress/cp1",
+    "basilowo9's progress",
+    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-11 750.md",
+    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-2 550.md",
+    "cp1 - Start/Start Rooms/Start-9 200.md",
+    "cp1 - Start/Start Rooms/Start-10 225.md",
+    "cp1 - Start/Start Rooms/Start-11 250.md",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 berry collect.png",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/925",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/900",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 berry mid.png",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 spinner gap.png",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 berry entrance.png",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 bumper gap.png",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 hitbox.jpg",
+    "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 no hitbox.jpg",
+    "200912~1 1.jpg",
+    "Untitled.canvas",
+    "cp1 - Start/Start Image Storage/475/475 spinner gap 1.png",
+    "cp1 - Start/Start Image Storage/475/475 no hitbox.jpg"
+  ]
+}

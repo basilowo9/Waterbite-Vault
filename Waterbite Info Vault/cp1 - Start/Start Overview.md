@@ -29,25 +29,25 @@ Chapter - 1x platinum berry, 1x silver berry, 13x water berry
 
 ## Tags
 
-Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #difficult #pufferfish #wind 
+Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #EVIL #pufferfish #spikes #wind 
 
 [[Start-1 Start|Start]] - #checkpoint #deathless-berry
 [[Start-2 25|25]] - #berry #deathless-berry
 [[Start-3 50|50]] - #berry
 [[Start-4 75|75]] - #berry 
 [[Start-5 100|100]] - #berry 
-[[Start-6 125|125]] - #berry #wind 
-[[Start-7 150|150]] - #berry #wind 
-[[Start-8 175|175]] - #berry #difficult #wind 
+[[Start-6 125|125]] - #berry #spikes #wind 
+[[Start-7 150|150]] - #berry #spikes #wind 
+[[Start-8 175|175]] - #berry #spikes #wind 
 [[Start-9 200|200]] - #berry 
 [[Start-10 225|225]]
-[[Start-11 250|250]] - #berry 
+[[Start-11 250|250]] - #berry #spikes 
 [[Start-12 275|275]]
-[[Start-13 300|300]] - #berry #difficult
-[[Start-14 325|325]] - #difficult
+[[Start-13 300|300]] - #berry #EVIL 
+[[Start-14 325|325]]
 [[Start-15 350|350]]
 [[Start-16 375|375]] - #berry 
-[[Start-17 400|400]] - #difficult 
+[[Start-17 400|400]]
 [[Start-18 425|425]] - #pufferfish 
 [[Start-19 450|450]] - #pufferfish 
 [[Start-20 475|475]] - #pufferfish 

@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+                "file": "cp3 - Scared of Red/Scared of Red Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feeling Purple-1 525"
-            }
-          },
-          {
-            "id": "db9fe298df39a6c5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/Theme Controller.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Theme Controller"
+              "title": "Scared of Red Overview"
             }
           }
         ]
@@ -203,45 +187,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9d4e22bd1f6333a3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "system/Theme Controller.md",
-    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
     "Home.md",
-    "cp1 - Start/Start Rooms/Start-4 75.md",
-    "cp1 - Start/Start Rooms/Start-5 100.md",
-    "cp1 - Start/Start Rooms/Start-6 125.md",
-    "cp1 - Start/Start Rooms/Start-7 150.md",
-    "cp1 - Start/Start Rooms/Start-8 175.md",
-    "basilowo9's progress/Progress Overview.md",
-    "Full Map Overview.md",
-    "cp2 - Feeling Purple/Feeling Purple Overview.md",
-    "cp1 - Start/Start Overview.md",
-    "cp1 - Start/Start Rooms/Start-21 500.md",
     "cp3 - Scared of Red/Scared of Red Overview.md",
-    "cp5 - Too Deep to Think/Too Deep to Think Overview.md",
-    "cp4 - Crimson Nightmares/Crimson Nightmares Overview.md",
-    "cp1 - Start/Start Rooms/Start-3 50.md",
-    "cp1 - Start/Start Rooms/Start-2 25.md",
+    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+    "cp1 - Start/Start Overview.md",
+    "Pasted image 20261003055617.png",
+    "cp3 - Scared of Red/Scared of Red Image Storage/Untitled",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-1 950.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-19 1400.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-18 1375.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-17 1350.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-16 1325.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-15 1300.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-14 1275.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-13 1250.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-12 1225.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-11 1200.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-10 1175.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-9 1150.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-8 1125.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-7 1100.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-6 1075.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-5 1050.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-4 1025.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-3 1000.md",
+    "cp3 - Scared of Red/Scared of Red Rooms/Scared of Red-2 975.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "cp1 - Start/Start Rooms/Start-1 Start.md",
+    "cp3 - Scared of Red/Scared of Red Image Storage",
+    "cp3 - Scared of Red/Scared of Red Rooms",
     "full map",
-    "basilowo9's progress/CP1 silver.md",
-    "basilowo9's progress/CP1 FC silver.md",
     "basilowo9's progress",
     "basilowo9's progress/cp5",
     "basilowo9's progress/cp4",
     "basilowo9's progress/cp3",
     "basilowo9's progress/cp2",
     "basilowo9's progress/cp1",
-    "basilowo9's progress",
-    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-11 750.md",
-    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-2 550.md",
-    "cp1 - Start/Start Rooms/Start-9 200.md",
-    "cp1 - Start/Start Rooms/Start-10 225.md",
-    "cp1 - Start/Start Rooms/Start-11 250.md",
     "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 berry collect.png",
-    "cp2 - Feeling Purple/Feeling Purple Image Storage/925",
-    "cp2 - Feeling Purple/Feeling Purple Image Storage/900",
     "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 berry mid.png",
     "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 spinner gap.png",
     "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 berry entrance.png",
@@ -250,7 +235,6 @@
     "cp2 - Feeling Purple/Feeling Purple Image Storage/525/525 no hitbox.jpg",
     "200912~1 1.jpg",
     "Untitled.canvas",
-    "cp1 - Start/Start Image Storage/475/475 spinner gap 1.png",
-    "cp1 - Start/Start Image Storage/475/475 no hitbox.jpg"
+    "cp1 - Start/Start Image Storage/475/475 spinner gap 1.png"
   ]
 }
